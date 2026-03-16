@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Nithya505/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Nithya505/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Nithya505/leetcode-solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Nithya505/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0912-sort-an-array](https://github.com/Nithya505/leetcode-solutions/tree/master/0912-sort-an-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Nithya505/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Nithya505/leetcode-solutions/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Nithya505/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Nithya505/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Nithya505/leetcode-solutions/tree/master/0169-majority-element) |
 | [0705-design-hashset](https://github.com/Nithya505/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Nithya505/leetcode-solutions/tree/master/0706-design-hashmap) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Nithya505/leetcode-solutions/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Nithya505/leetcode-solutions/tree/master/0075-sort-colors) |
 ## Divide and Conquer
 |  |
 | ------- |
