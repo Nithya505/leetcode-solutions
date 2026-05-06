@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Nithya505/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Nithya505/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Nithya505/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Nithya505/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Nithya505/leetcode-solutions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Nithya505/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Nithya505/leetcode-solutions/tree/master/0229-majority-element-ii) |
@@ -162,12 +163,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Nithya505/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Nithya505/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Nithya505/leetcode-solutions/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/Nithya505/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0622-design-circular-queue](https://github.com/Nithya505/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/Nithya505/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Nithya505/leetcode-solutions/tree/master/0706-design-hashmap) |
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Nithya505/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Nithya505/leetcode-solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Nithya505/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Nithya505/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
@@ -339,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Nithya505/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Nithya505/leetcode-solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
