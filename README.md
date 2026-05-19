@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/Nithya505/leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Nithya505/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/Nithya505/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0427-construct-quad-tree](https://github.com/Nithya505/leetcode-solutions/tree/master/0427-construct-quad-tree) |
 | [0560-subarray-sum-equals-k](https://github.com/Nithya505/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/Nithya505/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0658-find-k-closest-elements](https://github.com/Nithya505/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Nithya505/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/Nithya505/leetcode-solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Nithya505/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0427-construct-quad-tree](https://github.com/Nithya505/leetcode-solutions/tree/master/0427-construct-quad-tree) |
 | [0912-sort-an-array](https://github.com/Nithya505/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Nithya505/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/Nithya505/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Nithya505/leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0427-construct-quad-tree](https://github.com/Nithya505/leetcode-solutions/tree/master/0427-construct-quad-tree) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Nithya505/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Nithya505/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nithya505/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0427-construct-quad-tree](https://github.com/Nithya505/leetcode-solutions/tree/master/0427-construct-quad-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Nithya505/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Nithya505/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Nithya505/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
