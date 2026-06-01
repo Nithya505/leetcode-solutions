@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Nithya505/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Nithya505/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/Nithya505/leetcode-solutions/tree/master/0767-reorganize-string) |
+| [1405-longest-happy-string](https://github.com/Nithya505/leetcode-solutions/tree/master/1405-longest-happy-string) |
 | [1768-merge-strings-alternately](https://github.com/Nithya505/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Nithya505/leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## Sorting
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Nithya505/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/Nithya505/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/Nithya505/leetcode-solutions/tree/master/1046-last-stone-weight) |
+| [1405-longest-happy-string](https://github.com/Nithya505/leetcode-solutions/tree/master/1405-longest-happy-string) |
 | [1834-single-threaded-cpu](https://github.com/Nithya505/leetcode-solutions/tree/master/1834-single-threaded-cpu) |
 ## Merge Sort
 |  |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Nithya505/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/Nithya505/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/Nithya505/leetcode-solutions/tree/master/0881-boats-to-save-people) |
+| [1405-longest-happy-string](https://github.com/Nithya505/leetcode-solutions/tree/master/1405-longest-happy-string) |
 ## Binary Search
 |  |
 | ------- |
