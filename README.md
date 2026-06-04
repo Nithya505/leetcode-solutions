@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Nithya505/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/Nithya505/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Nithya505/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0502-ipo](https://github.com/Nithya505/leetcode-solutions/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Nithya505/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Nithya505/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/Nithya505/leetcode-solutions/tree/master/0767-reorganize-string) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Nithya505/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/Nithya505/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0427-construct-quad-tree](https://github.com/Nithya505/leetcode-solutions/tree/master/0427-construct-quad-tree) |
+| [0502-ipo](https://github.com/Nithya505/leetcode-solutions/tree/master/0502-ipo) |
 | [0560-subarray-sum-equals-k](https://github.com/Nithya505/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Nithya505/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/Nithya505/leetcode-solutions/tree/master/0622-design-circular-queue) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Nithya505/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Nithya505/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Nithya505/leetcode-solutions/tree/master/0355-design-twitter) |
+| [0502-ipo](https://github.com/Nithya505/leetcode-solutions/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Nithya505/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Nithya505/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nithya505/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Nithya505/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nithya505/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/Nithya505/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0502-ipo](https://github.com/Nithya505/leetcode-solutions/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Nithya505/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/Nithya505/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/Nithya505/leetcode-solutions/tree/master/0767-reorganize-string) |
