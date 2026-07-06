@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Nithya505/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Nithya505/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Nithya505/leetcode-solutions/tree/master/0953-verifying-an-alien-dictionary) |
+| [0994-rotting-oranges](https://github.com/Nithya505/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Nithya505/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/Nithya505/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/Nithya505/leetcode-solutions/tree/master/1094-car-pooling) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/Nithya505/leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0427-construct-quad-tree](https://github.com/Nithya505/leetcode-solutions/tree/master/0427-construct-quad-tree) |
 | [0695-max-area-of-island](https://github.com/Nithya505/leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/Nithya505/leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Nithya505/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Nithya505/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Nithya505/leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/Nithya505/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Nithya505/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## String Matching
 |  |
