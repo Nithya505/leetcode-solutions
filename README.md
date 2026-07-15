@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Nithya505/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0705-design-hashset](https://github.com/Nithya505/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Nithya505/leetcode-solutions/tree/master/0706-design-hashmap) |
+| [0721-accounts-merge](https://github.com/Nithya505/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/Nithya505/leetcode-solutions/tree/master/0752-open-the-lock) |
 | [0767-reorganize-string](https://github.com/Nithya505/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0895-maximum-frequency-stack](https://github.com/Nithya505/leetcode-solutions/tree/master/0895-maximum-frequency-stack) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Nithya505/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Nithya505/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Nithya505/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0721-accounts-merge](https://github.com/Nithya505/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/Nithya505/leetcode-solutions/tree/master/0752-open-the-lock) |
 | [0767-reorganize-string](https://github.com/Nithya505/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Nithya505/leetcode-solutions/tree/master/0953-verifying-an-alien-dictionary) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/Nithya505/leetcode-solutions/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Nithya505/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Nithya505/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+| [0721-accounts-merge](https://github.com/Nithya505/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/Nithya505/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/Nithya505/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Nithya505/leetcode-solutions/tree/master/0912-sort-an-array) |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Nithya505/leetcode-solutions/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Nithya505/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Nithya505/leetcode-solutions/tree/master/0706-design-hashmap) |
+| [0721-accounts-merge](https://github.com/Nithya505/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0735-asteroid-collision](https://github.com/Nithya505/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Nithya505/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0752-open-the-lock](https://github.com/Nithya505/leetcode-solutions/tree/master/0752-open-the-lock) |
@@ -346,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Nithya505/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/Nithya505/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Nithya505/leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Nithya505/leetcode-solutions/tree/master/0721-accounts-merge) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -537,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Nithya505/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/Nithya505/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Nithya505/leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Nithya505/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Nithya505/leetcode-solutions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Nithya505/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1462-course-schedule-iv](https://github.com/Nithya505/leetcode-solutions/tree/master/1462-course-schedule-iv) |
@@ -579,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Nithya505/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/Nithya505/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Nithya505/leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Nithya505/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/Nithya505/leetcode-solutions/tree/master/0752-open-the-lock) |
 | [0994-rotting-oranges](https://github.com/Nithya505/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Nithya505/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
