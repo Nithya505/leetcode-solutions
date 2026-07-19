@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Nithya505/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/Nithya505/leetcode-solutions/tree/master/1094-car-pooling) |
 | [1095-find-in-mountain-array](https://github.com/Nithya505/leetcode-solutions/tree/master/1095-find-in-mountain-array) |
+| [1631-path-with-minimum-effort](https://github.com/Nithya505/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1834-single-threaded-cpu](https://github.com/Nithya505/leetcode-solutions/tree/master/1834-single-threaded-cpu) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Nithya505/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Nithya505/leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Nithya505/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/Nithya505/leetcode-solutions/tree/master/1094-car-pooling) |
 | [1405-longest-happy-string](https://github.com/Nithya505/leetcode-solutions/tree/master/1405-longest-happy-string) |
+| [1631-path-with-minimum-effort](https://github.com/Nithya505/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1834-single-threaded-cpu](https://github.com/Nithya505/leetcode-solutions/tree/master/1834-single-threaded-cpu) |
 ## Merge Sort
 |  |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/Nithya505/leetcode-solutions/tree/master/0427-construct-quad-tree) |
 | [0695-max-area-of-island](https://github.com/Nithya505/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/Nithya505/leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1631-path-with-minimum-effort](https://github.com/Nithya505/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Nithya505/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Nithya505/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Nithya505/leetcode-solutions/tree/master/0721-accounts-merge) |
+| [1631-path-with-minimum-effort](https://github.com/Nithya505/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -399,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Nithya505/leetcode-solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Nithya505/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1095-find-in-mountain-array](https://github.com/Nithya505/leetcode-solutions/tree/master/1095-find-in-mountain-array) |
+| [1631-path-with-minimum-effort](https://github.com/Nithya505/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [3488-closest-equal-element-queries](https://github.com/Nithya505/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 ## Math
 |  |
@@ -549,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-delete-leaves-with-a-given-value](https://github.com/Nithya505/leetcode-solutions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Nithya505/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1462-course-schedule-iv](https://github.com/Nithya505/leetcode-solutions/tree/master/1462-course-schedule-iv) |
+| [1631-path-with-minimum-effort](https://github.com/Nithya505/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -595,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Nithya505/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Nithya505/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1462-course-schedule-iv](https://github.com/Nithya505/leetcode-solutions/tree/master/1462-course-schedule-iv) |
+| [1631-path-with-minimum-effort](https://github.com/Nithya505/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## String Matching
 |  |
 | ------- |
