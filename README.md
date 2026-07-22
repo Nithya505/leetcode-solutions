@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Nithya505/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/Nithya505/leetcode-solutions/tree/master/1094-car-pooling) |
 | [1095-find-in-mountain-array](https://github.com/Nithya505/leetcode-solutions/tree/master/1095-find-in-mountain-array) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Nithya505/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Nithya505/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1834-single-threaded-cpu](https://github.com/Nithya505/leetcode-solutions/tree/master/1834-single-threaded-cpu) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Nithya505/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Nithya505/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Nithya505/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Nithya505/leetcode-solutions/tree/master/0721-accounts-merge) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Nithya505/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Nithya505/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Dynamic Programming
 |  |
@@ -670,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Nithya505/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0997-find-the-town-judge](https://github.com/Nithya505/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1462-course-schedule-iv](https://github.com/Nithya505/leetcode-solutions/tree/master/1462-course-schedule-iv) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Nithya505/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
 | ------- |
@@ -681,4 +684,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Nithya505/leetcode-solutions/tree/master/0332-reconstruct-itinerary) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Nithya505/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
