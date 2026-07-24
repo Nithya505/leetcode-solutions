@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nithya505/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0767-reorganize-string](https://github.com/Nithya505/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0778-swim-in-rising-water](https://github.com/Nithya505/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Nithya505/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/Nithya505/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/Nithya505/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/Nithya505/leetcode-solutions/tree/master/1094-car-pooling) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Nithya505/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0473-matchsticks-to-square](https://github.com/Nithya505/leetcode-solutions/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Nithya505/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Nithya505/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2707-extra-characters-in-a-string](https://github.com/Nithya505/leetcode-solutions/tree/master/2707-extra-characters-in-a-string) |
 ## Greedy
 |  |
@@ -564,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Nithya505/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Nithya505/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/Nithya505/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Nithya505/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Nithya505/leetcode-solutions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Nithya505/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1462-course-schedule-iv](https://github.com/Nithya505/leetcode-solutions/tree/master/1462-course-schedule-iv) |
@@ -612,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Nithya505/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/Nithya505/leetcode-solutions/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/Nithya505/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Nithya505/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/Nithya505/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Nithya505/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1462-course-schedule-iv](https://github.com/Nithya505/leetcode-solutions/tree/master/1462-course-schedule-iv) |
@@ -677,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/Nithya505/leetcode-solutions/tree/master/0310-minimum-height-trees) |
 | [0332-reconstruct-itinerary](https://github.com/Nithya505/leetcode-solutions/tree/master/0332-reconstruct-itinerary) |
 | [0684-redundant-connection](https://github.com/Nithya505/leetcode-solutions/tree/master/0684-redundant-connection) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Nithya505/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0997-find-the-town-judge](https://github.com/Nithya505/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1462-course-schedule-iv](https://github.com/Nithya505/leetcode-solutions/tree/master/1462-course-schedule-iv) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Nithya505/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
@@ -695,4 +700,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/Nithya505/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Nithya505/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
