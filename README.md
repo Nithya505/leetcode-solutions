@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Nithya505/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Nithya505/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1094-car-pooling](https://github.com/Nithya505/leetcode-solutions/tree/master/1094-car-pooling) |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Nithya505/leetcode-solutions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1834-single-threaded-cpu](https://github.com/Nithya505/leetcode-solutions/tree/master/1834-single-threaded-cpu) |
 ## Array
 |  |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Nithya505/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Nithya505/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/Nithya505/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Nithya505/leetcode-solutions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Nithya505/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Nithya505/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Dynamic Programming
@@ -684,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nithya505/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0997-find-the-town-judge](https://github.com/Nithya505/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1462-course-schedule-iv](https://github.com/Nithya505/leetcode-solutions/tree/master/1462-course-schedule-iv) |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Nithya505/leetcode-solutions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Nithya505/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
@@ -699,9 +702,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimum Spanning Tree
 |  |
 | ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Nithya505/leetcode-solutions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Nithya505/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Shortest Path
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nithya505/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Nithya505/leetcode-solutions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 <!---LeetCode Topics End-->
