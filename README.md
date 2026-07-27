@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-build-a-matrix-with-conditions](https://github.com/Nithya505/leetcode-solutions/tree/master/2392-build-a-matrix-with-conditions) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Nithya505/leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2707-extra-characters-in-a-string](https://github.com/Nithya505/leetcode-solutions/tree/master/2707-extra-characters-in-a-string) |
+| [2709-greatest-common-divisor-traversal](https://github.com/Nithya505/leetcode-solutions/tree/master/2709-greatest-common-divisor-traversal) |
 | [3488-closest-equal-element-queries](https://github.com/Nithya505/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 ## Trie
 |  |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Nithya505/leetcode-solutions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Nithya505/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Nithya505/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [2709-greatest-common-divisor-traversal](https://github.com/Nithya505/leetcode-solutions/tree/master/2709-greatest-common-divisor-traversal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nithya505/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Nithya505/leetcode-solutions/tree/master/0189-rotate-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Nithya505/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2709-greatest-common-divisor-traversal](https://github.com/Nithya505/leetcode-solutions/tree/master/2709-greatest-common-divisor-traversal) |
 ## Stack
 |  |
 | ------- |
@@ -716,4 +719,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Nithya505/leetcode-solutions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+## Number Theory
+|  |
+| ------- |
+| [2709-greatest-common-divisor-traversal](https://github.com/Nithya505/leetcode-solutions/tree/master/2709-greatest-common-divisor-traversal) |
 <!---LeetCode Topics End-->
