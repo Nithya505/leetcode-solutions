@@ -379,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Nithya505/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Nithya505/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Nithya505/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nithya505/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nithya505/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nithya505/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nithya505/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/Nithya505/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Nithya505/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nithya505/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Nithya505/leetcode-solutions/tree/master/0189-rotate-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Nithya505/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -677,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Nithya505/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0140-word-break-ii](https://github.com/Nithya505/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Nithya505/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Graph Theory
