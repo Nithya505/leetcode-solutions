@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Nithya505/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0746-min-cost-climbing-stairs](https://github.com/Nithya505/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nithya505/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1137-n-th-tribonacci-number](https://github.com/Nithya505/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [2707-extra-characters-in-a-string](https://github.com/Nithya505/leetcode-solutions/tree/master/2707-extra-characters-in-a-string) |
 ## Greedy
 |  |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Nithya505/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nithya505/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Nithya505/leetcode-solutions/tree/master/0189-rotate-array) |
+| [1137-n-th-tribonacci-number](https://github.com/Nithya505/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Nithya505/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2709-greatest-common-divisor-traversal](https://github.com/Nithya505/leetcode-solutions/tree/master/2709-greatest-common-divisor-traversal) |
 ## Stack
@@ -684,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Nithya505/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0140-word-break-ii](https://github.com/Nithya505/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Nithya505/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1137-n-th-tribonacci-number](https://github.com/Nithya505/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Graph Theory
 |  |
 | ------- |
