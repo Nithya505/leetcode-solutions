@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Nithya505/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nithya505/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/Nithya505/leetcode-solutions/tree/master/0212-word-search-ii) |
+| [0213-house-robber-ii](https://github.com/Nithya505/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nithya505/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Nithya505/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Nithya505/leetcode-solutions/tree/master/0229-majority-element-ii) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Nithya505/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Nithya505/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/Nithya505/leetcode-solutions/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Nithya505/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0337-house-robber-iii](https://github.com/Nithya505/leetcode-solutions/tree/master/0337-house-robber-iii) |
 | [0410-split-array-largest-sum](https://github.com/Nithya505/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0473-matchsticks-to-square](https://github.com/Nithya505/leetcode-solutions/tree/master/0473-matchsticks-to-square) |
