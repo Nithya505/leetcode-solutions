@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/Nithya505/leetcode-solutions/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/Nithya505/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/Nithya505/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/Nithya505/leetcode-solutions/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Nithya505/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Nithya505/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Nithya505/leetcode-solutions/tree/master/0953-verifying-an-alien-dictionary) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Nithya505/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0746-min-cost-climbing-stairs](https://github.com/Nithya505/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nithya505/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0877-stone-game](https://github.com/Nithya505/leetcode-solutions/tree/master/0877-stone-game) |
 | [1049-last-stone-weight-ii](https://github.com/Nithya505/leetcode-solutions/tree/master/1049-last-stone-weight-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/Nithya505/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Nithya505/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Nithya505/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/Nithya505/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/Nithya505/leetcode-solutions/tree/master/0343-integer-break) |
+| [0877-stone-game](https://github.com/Nithya505/leetcode-solutions/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Nithya505/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1406-stone-game-iii](https://github.com/Nithya505/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Nithya505/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -820,14 +823,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Nithya505/leetcode-solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Nithya505/leetcode-solutions/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Nithya505/leetcode-solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Nithya505/leetcode-solutions/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Nithya505/leetcode-solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Nithya505/leetcode-solutions/tree/master/1406-stone-game-iii) |
 ## Longest Common Subsequence
 |  |
