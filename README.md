@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Nithya505/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1405-longest-happy-string](https://github.com/Nithya505/leetcode-solutions/tree/master/1405-longest-happy-string) |
 | [1768-merge-strings-alternately](https://github.com/Nithya505/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
+| [1871-jump-game-vii](https://github.com/Nithya505/leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Nithya505/leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2707-extra-characters-in-a-string](https://github.com/Nithya505/leetcode-solutions/tree/master/2707-extra-characters-in-a-string) |
 ## Sorting
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Nithya505/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1094-car-pooling](https://github.com/Nithya505/leetcode-solutions/tree/master/1094-car-pooling) |
 | [1140-stone-game-ii](https://github.com/Nithya505/leetcode-solutions/tree/master/1140-stone-game-ii) |
+| [1871-jump-game-vii](https://github.com/Nithya505/leetcode-solutions/tree/master/1871-jump-game-vii) |
 ## Union-Find
 |  |
 | ------- |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Nithya505/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Nithya505/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/Nithya505/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1871-jump-game-vii](https://github.com/Nithya505/leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [2707-extra-characters-in-a-string](https://github.com/Nithya505/leetcode-solutions/tree/master/2707-extra-characters-in-a-string) |
 ## Greedy
 |  |
@@ -563,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Nithya505/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/Nithya505/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0978-longest-turbulent-subarray](https://github.com/Nithya505/leetcode-solutions/tree/master/0978-longest-turbulent-subarray) |
+| [1871-jump-game-vii](https://github.com/Nithya505/leetcode-solutions/tree/master/1871-jump-game-vii) |
 ## Simulation
 |  |
 | ------- |
