@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Nithya505/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Nithya505/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Nithya505/leetcode-solutions/tree/master/0647-palindromic-substrings) |
+| [0649-dota2-senate](https://github.com/Nithya505/leetcode-solutions/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/Nithya505/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0721-accounts-merge](https://github.com/Nithya505/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/Nithya505/leetcode-solutions/tree/master/0752-open-the-lock) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Nithya505/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/Nithya505/leetcode-solutions/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Nithya505/leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0649-dota2-senate](https://github.com/Nithya505/leetcode-solutions/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/Nithya505/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/Nithya505/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/Nithya505/leetcode-solutions/tree/master/0846-hand-of-straights) |
@@ -585,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Nithya505/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Nithya505/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/Nithya505/leetcode-solutions/tree/master/0622-design-circular-queue) |
+| [0649-dota2-senate](https://github.com/Nithya505/leetcode-solutions/tree/master/0649-dota2-senate) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Nithya505/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Data Stream
 |  |
