@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Nithya505/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1834-single-threaded-cpu](https://github.com/Nithya505/leetcode-solutions/tree/master/1834-single-threaded-cpu) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Nithya505/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/Nithya505/leetcode-solutions/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2392-build-a-matrix-with-conditions](https://github.com/Nithya505/leetcode-solutions/tree/master/2392-build-a-matrix-with-conditions) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Nithya505/leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2707-extra-characters-in-a-string](https://github.com/Nithya505/leetcode-solutions/tree/master/2707-extra-characters-in-a-string) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Nithya505/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Nithya505/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [1405-longest-happy-string](https://github.com/Nithya505/leetcode-solutions/tree/master/1405-longest-happy-string) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/Nithya505/leetcode-solutions/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Binary Search
 |  |
 | ------- |
