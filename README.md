@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0895-maximum-frequency-stack](https://github.com/Nithya505/leetcode-solutions/tree/master/0895-maximum-frequency-stack) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Nithya505/leetcode-solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [0997-find-the-town-judge](https://github.com/Nithya505/leetcode-solutions/tree/master/0997-find-the-town-judge) |
+| [2402-meeting-rooms-iii](https://github.com/Nithya505/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
 | [2707-extra-characters-in-a-string](https://github.com/Nithya505/leetcode-solutions/tree/master/2707-extra-characters-in-a-string) |
 | [3488-closest-equal-element-queries](https://github.com/Nithya505/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 ## String
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/Nithya505/leetcode-solutions/tree/master/1094-car-pooling) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Nithya505/leetcode-solutions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1834-single-threaded-cpu](https://github.com/Nithya505/leetcode-solutions/tree/master/1834-single-threaded-cpu) |
+| [2402-meeting-rooms-iii](https://github.com/Nithya505/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
 ## Array
 |  |
 | ------- |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Nithya505/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Nithya505/leetcode-solutions/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2392-build-a-matrix-with-conditions](https://github.com/Nithya505/leetcode-solutions/tree/master/2392-build-a-matrix-with-conditions) |
+| [2402-meeting-rooms-iii](https://github.com/Nithya505/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Nithya505/leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2707-extra-characters-in-a-string](https://github.com/Nithya505/leetcode-solutions/tree/master/2707-extra-characters-in-a-string) |
 | [2709-greatest-common-divisor-traversal](https://github.com/Nithya505/leetcode-solutions/tree/master/2709-greatest-common-divisor-traversal) |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1405-longest-happy-string](https://github.com/Nithya505/leetcode-solutions/tree/master/1405-longest-happy-string) |
 | [1631-path-with-minimum-effort](https://github.com/Nithya505/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1834-single-threaded-cpu](https://github.com/Nithya505/leetcode-solutions/tree/master/1834-single-threaded-cpu) |
+| [2402-meeting-rooms-iii](https://github.com/Nithya505/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -600,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Nithya505/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Nithya505/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [1094-car-pooling](https://github.com/Nithya505/leetcode-solutions/tree/master/1094-car-pooling) |
+| [2402-meeting-rooms-iii](https://github.com/Nithya505/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
 ## Queue
 |  |
 | ------- |
