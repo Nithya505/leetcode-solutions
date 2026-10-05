@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/Nithya505/leetcode-solutions/tree/master/1094-car-pooling) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Nithya505/leetcode-solutions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1834-single-threaded-cpu](https://github.com/Nithya505/leetcode-solutions/tree/master/1834-single-threaded-cpu) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/Nithya505/leetcode-solutions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2402-meeting-rooms-iii](https://github.com/Nithya505/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
 ## Array
 |  |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/Nithya505/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Nithya505/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1834-single-threaded-cpu](https://github.com/Nithya505/leetcode-solutions/tree/master/1834-single-threaded-cpu) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/Nithya505/leetcode-solutions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Nithya505/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Nithya505/leetcode-solutions/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2392-build-a-matrix-with-conditions](https://github.com/Nithya505/leetcode-solutions/tree/master/2392-build-a-matrix-with-conditions) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1405-longest-happy-string](https://github.com/Nithya505/leetcode-solutions/tree/master/1405-longest-happy-string) |
 | [1631-path-with-minimum-effort](https://github.com/Nithya505/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1834-single-threaded-cpu](https://github.com/Nithya505/leetcode-solutions/tree/master/1834-single-threaded-cpu) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/Nithya505/leetcode-solutions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2402-meeting-rooms-iii](https://github.com/Nithya505/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
 ## Merge Sort
 |  |
@@ -540,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Nithya505/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1095-find-in-mountain-array](https://github.com/Nithya505/leetcode-solutions/tree/master/1095-find-in-mountain-array) |
 | [1631-path-with-minimum-effort](https://github.com/Nithya505/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/Nithya505/leetcode-solutions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [3488-closest-equal-element-queries](https://github.com/Nithya505/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 ## Math
 |  |
@@ -934,4 +938,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Nithya505/leetcode-solutions/tree/master/0056-merge-intervals) |
+## Sweep Line
+|  |
+| ------- |
+| [1851-minimum-interval-to-include-each-query](https://github.com/Nithya505/leetcode-solutions/tree/master/1851-minimum-interval-to-include-each-query) |
 <!---LeetCode Topics End-->
