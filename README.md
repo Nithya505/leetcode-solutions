@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Nithya505/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/Nithya505/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Nithya505/leetcode-solutions/tree/master/0953-verifying-an-alien-dictionary) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Nithya505/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/Nithya505/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1405-longest-happy-string](https://github.com/Nithya505/leetcode-solutions/tree/master/1405-longest-happy-string) |
 | [1768-merge-strings-alternately](https://github.com/Nithya505/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Nithya505/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/Nithya505/leetcode-solutions/tree/master/0343-integer-break) |
 | [0877-stone-game](https://github.com/Nithya505/leetcode-solutions/tree/master/0877-stone-game) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Nithya505/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/Nithya505/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/Nithya505/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Nithya505/leetcode-solutions/tree/master/1406-stone-game-iii) |
@@ -944,4 +946,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Nithya505/leetcode-solutions/tree/master/1851-minimum-interval-to-include-each-query) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Nithya505/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Nithya505/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
