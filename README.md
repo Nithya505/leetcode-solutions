@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/Nithya505/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/Nithya505/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Nithya505/leetcode-solutions/tree/master/0706-design-hashmap) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Nithya505/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Nithya505/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Nithya505/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2709-greatest-common-divisor-traversal](https://github.com/Nithya505/leetcode-solutions/tree/master/2709-greatest-common-divisor-traversal) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Nithya505/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -875,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2709-greatest-common-divisor-traversal](https://github.com/Nithya505/leetcode-solutions/tree/master/2709-greatest-common-divisor-traversal) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Nithya505/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Knapsack Problem
 |  |
 | ------- |
